@@ -1,0 +1,14 @@
+#board {
+    width: 640px;
+    height: 480px;
+    margin: auto;
+
+    /* additional  for Rick*/
+    /* make images relative to the game #board */
+    position: relative;
+    background-color: #8CD;
+}
+
+h1{
+    text-align: center;
+}
